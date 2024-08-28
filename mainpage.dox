@@ -1,0 +1,10 @@
+/**
+ * @mainpage notitle
+ *
+ * @date 22 de Agosto del 2024
+ *
+ * @author Marcos Gomez Villafañe
+ * @author Hernan Leandro Bailo
+ *
+ * Implementación del ejemplo 1.1 del libro con el agregado de un mensaje de "Hola mundo" por comunicación serie con la PC.
+*/
